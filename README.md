@@ -1,3 +1,4 @@
+![Duplicate File Finder](https://repository-images.githubusercontent.com/1100856126/3749c92f-0a9d-4acb-8b7e-2c1b28d2fb33)
 Self-taught, terrible at coding—but I’ve been dabbling with computers and code for a long time and don’t have much to show for it. So I’ve started building apps with a little help from AI. 🤖
 
 ---
