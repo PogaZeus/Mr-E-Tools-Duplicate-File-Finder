@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="Duplicate File Finder/Duplicate File Finder.csproj" />
+  <Project Path="Duplicate File Finder/Duplicate File Finder.csproj" Id="5bc9dc4a-0098-47b5-8a16-d473991706de">
+    <BuildType Project="Release" />
+  </Project>
 </Solution>

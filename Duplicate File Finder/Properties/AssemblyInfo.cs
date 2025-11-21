@@ -8,7 +8,7 @@ using System.Windows;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Mr E Tools - Duplicate File Finder")]
-[assembly: AssemblyDescription("Opensource C# XAML Project")]
+[assembly: AssemblyDescription("Mr E Tools - Duplicate File Finder - Opensource C# XAML WPF Project")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Mr E Tools")]
 [assembly: AssemblyProduct("Duplicate File Finder")]

@@ -25,15 +25,7 @@
                        VerticalAlignment="Top"
                        TextAlignment="Right"
                        FontSize="12"
-                       Foreground="Gray">
-                Duplicate File Finder
-                <LineBreak/><LineBreak/>
-                Created By
-                <LineBreak/>
-                Youtube.com/@MrE-
-                <LineBreak/><LineBreak/>
-                Version 1.0
-            </TextBlock>
+                       Foreground="Gray"><Run Text="Duplicate File Finder"/><LineBreak/><LineBreak/><Run Text="Created By"/><LineBreak/><Run Text="Youtube.com/@MrE-"/><LineBreak/><LineBreak/><Run Text="Version 1.0"/><Run Language="en-gb" Text=".0"/></TextBlock>
         </Grid>
 
         <!-- Folder Selection -->
